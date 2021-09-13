@@ -1,0 +1,24 @@
+{
+  "name": "film_app_mongoose",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000m\u0000o\u0000n\u0000g\u0000o\u0000o\u0000s\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nailahartigan/mongoose.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nailahartigan/mongoose/issues"
+  },
+  "homepage": "https://github.com/nailahartigan/mongoose#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mongoose": "^6.0.5"
+  }
+}
